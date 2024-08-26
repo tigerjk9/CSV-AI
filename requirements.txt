@@ -1,6 +1,9 @@
 streamlit
 streamlit_chat
 langchain
+langchain-experimental
+langchain-openai
+langchain-community
 pandas
 openai
 tqdm
@@ -10,3 +13,6 @@ tiktoken
 tabulate
 unstructured
 pdf2image
+pydantic
+numpy
+openpyxl
